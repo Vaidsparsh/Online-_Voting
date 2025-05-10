@@ -29,5 +29,5 @@ Install XAMPP on your computer
 Make sure the Apache and MySQL services are running in the XAMPP control panel
 
 Admin Panel Login Details
-- Username: ssvps@gmail.com
+- Username: admin@gmail.com
 - Password: pass@123
